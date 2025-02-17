@@ -1,7 +1,7 @@
 # RunBTC-website
 Website of runbtc.app
 
-Name Changes: RunBTC(Best I think, also have the app name), SatoshiStep(supermeh), BTC Rush(like gold rush but why are they rushing? so also meh)
+App Name Ideas: RunBTC(Best I think, also have the app name), SatoshiStep(supermeh), BTC Rush(like gold rush but why are they rushing? so also meh)
 
 Apps to be checked locally:
 - Runna
